@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Kotlin projects
 - 📫 How to reach me: (facebook.com/areebkhan419),(instagram.com/khan_ak92)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
 
 <!---
 khanak92/khanak92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
